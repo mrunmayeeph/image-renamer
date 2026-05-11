@@ -1,0 +1,9 @@
+{
+  "name": "image-renamer",
+  "version": "0.1.0",
+  "description": "Batch image renamer using EXIF metadata and configurable naming patterns.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
